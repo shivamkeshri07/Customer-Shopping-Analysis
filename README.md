@@ -1,6 +1,5 @@
 # Customer Shopping Analysis
 
-## 📷 Dashboard Preview
 
 <img width="1405" height="747" alt="Customer Shopping Behavior Analysis" src="https://github.com/user-attachments/assets/826a2eb5-5891-4050-9ccf-2916191f0ec7" />
 
@@ -8,7 +7,7 @@
 ## 📌 Project Overview
 This project analyzes customer shopping behavior using transactional retail data containing **3,900 customer purchase records** across multiple product categories.
 
-The objective of this project is to:
+### The objective of this project is to:
 - Understand customer purchasing patterns
 - Identify high-value customer segments
 - Analyze subscription behavior
@@ -17,13 +16,15 @@ The objective of this project is to:
 - Build an interactive dashboard in Power BI
 
 ---
-🚀 Tools Used-
+### 🚀 Tools Used-
 
-Python
-Pandas
-MySQL
-Power BI
-Jupyter Notebook
+- Python
+- Pandas
+- MySQL
+- Power BI
+- Jupyter Notebook
+
+---
 
 ## 🛠️ Tools Used
 
@@ -89,5 +90,3 @@ Prepared a detailed project report and presentation summarizing:
 - Create loyalty programs for repeat customers
 - Optimize discount strategies to improve profitability
 - Focus marketing campaigns on high-value customers
-
-LinkedIn: Add Your LinkedIn Profile Here
