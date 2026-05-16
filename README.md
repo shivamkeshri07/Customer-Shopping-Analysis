@@ -17,6 +17,13 @@ The objective of this project is to:
 - Build an interactive dashboard in Power BI
 
 ---
+🚀 Tools Used-
+
+Python
+Pandas
+MySQL
+Power BI
+Jupyter Notebook
 
 ## 🛠️ Tools Used
 
@@ -27,7 +34,6 @@ The objective of this project is to:
 | MySQL | Business Query Analysis |
 | Power BI | Dashboard & Visualization |
 | Jupyter Notebook | Python Development |
-| GitHub | Project Hosting |
 
 ---
 
